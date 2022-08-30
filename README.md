@@ -12,6 +12,7 @@ I did Exploratory data analysis on Sample Superstore Dataset using Python, SQL
 
 - with  SQL, bulk insert data from csv to sql and extract the necessary informations
 - Sample Superstore Data Analysis using Power Bi
+- ![image](https://user-images.githubusercontent.com/71776513/187407806-a2aa88cf-b63f-4826-a8b4-9576abff42be.png)
 Insight Can be Discovered by Dashboard:
 1. Customer with most Sales but they are having Loss
 2. More we Sell more we loss in the case of Table
@@ -19,4 +20,4 @@ Insight Can be Discovered by Dashboard:
 4. Using Heatmap we can compare products for their Sales vs Profit
 5. Using Sale Forecasting we can say that Technologies category have steady growth with no up and down
 6. Phone is the category more we sell but less profit
-![image](https://user-images.githubusercontent.com/71776513/187407806-a2aa88cf-b63f-4826-a8b4-9576abff42be.png)
+
